@@ -1,4 +1,4 @@
-# Interrupts in PIC Microcontrollers:
+# Interrupts in PIC Microcontrollers (PIC16F887):
 _Interrupts are a crucial feature in microcontrollers like the PIC16F887. They allow the microcontroller to respond to external events or internal conditions promptly, without having to continuously poll for them. This improves efficiency and responsiveness in embedded systems._
 
 # _Types of Interrupts:_

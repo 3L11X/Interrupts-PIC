@@ -92,8 +92,8 @@ _To use interrupts in a PIC microcontroller like the PIC16F887, the following st
                     |       Check for RB0/INT Interrupt     |
                     |                                       |
                     |       ┌───────────────────────┐       |
-                    |       │   Interrupt Triggered  │       |
-                    |       │      (INTF set)       │       |
+                    |       │Interruption Déclenchée│       |
+                    |       │   (INTF activé)       │       |
                     |       └───────────────────────┘       |
                     |                 │                   |
                     |       ┌─────────┴─────────┐         |
@@ -112,16 +112,3 @@ _To use interrupts in a PIC microcontroller like the PIC16F887, the following st
                     |             End Program               |
                     +---------------------------------------+
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
